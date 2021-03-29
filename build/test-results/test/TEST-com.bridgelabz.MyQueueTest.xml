@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MyQueueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T18:07:07" hostname="LAPTOP-FPFKM2LM" time="0.092">
-  <properties/>
-  <testcase name="given3Integers_WhenAddedToQueue_ShouldPassTheTest()" classname="com.bridgelabz.MyQueueTest" time="0.092"/>
-  <system-out><![CDATA[Print statement
-My Nodes are: 56->30->70
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

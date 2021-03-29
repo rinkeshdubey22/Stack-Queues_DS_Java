@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T18:12:53" hostname="LAPTOP-FPFKM2LM" time="0.03">
+  <properties/>
+  <testcase name="given3IntegersInQueue_WhenDequeue_ShouldHaveFirstAddedNode()" classname="com.bridgelabz.MyStackTest" time="0.03"/>
+  <system-out><![CDATA[Print statement
+My Nodes are: 56->30->70
+Print statement
+My Nodes are: 30->70
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
