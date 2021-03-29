@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-29T17:54:04" hostname="LAPTOP-FPFKM2LM" time="0.035">
-  <properties/>
-  <testcase name="given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode()" classname="com.bridgelabz.MyStackTest" time="0.035"/>
-  <system-out><![CDATA[Print statement
-My Nodes are: 30->70
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

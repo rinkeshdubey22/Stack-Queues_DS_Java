@@ -32,5 +32,4 @@ public class MyStackTest {
         myStack.printStack();
         Assertions.assertEquals(myThirdNode, pop);
     }
-
 }
